@@ -1,0 +1,25 @@
+{
+  "name": "hello-gindis",
+  "version": "1.0.0",
+  "description": "A example for write a module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gindis/hello-gindis.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "hello",
+    "test"
+  ],
+  "author": "gindis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gindis/hello-gindis/issues"
+  },
+  "dependencies": {
+    "mocha": "^2.1.0"
+  }
+}
